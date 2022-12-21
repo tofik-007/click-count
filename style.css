@@ -1,0 +1,17 @@
+#box {
+    height: 250px;
+    width: 250px;
+    border-radius: 20%;
+    background-color: rgb(0, 153, 255);
+    margin: 100px auto;
+    cursor: pointer;
+    
+}
+
+#box:hover {
+    box-shadow: 0px 0px 30px grey;
+}
+
+h1 {
+    text-align: center;
+}
